@@ -1,12 +1,13 @@
 # The Indoor Routing Library contains a set of algorithms for working with the routing graph.
-<p align="center"><img  width="50%"src=https://github.com/Navigine/geometry/blob/main/Geometry%20Library.jpg></p>
+<p align="center"><img  width="50%"src=https://github.com/Navigine/Indoor-Routing-Library/blob/main/Indoor%20Routing%20Library.jpg></p>
 
-### The main features are:
+## The main features are:
 
 * build a graph by specifying the vertices in Cartesian coordinates
 * check if the graph is strongly connected (`Kosaraju's` algorithm)
 * find the shortest route from the starting point to one or more destination points (`Dijkstra's` algorithm)
 
+<p align="center"><img  width="50%"src=https://github.com/Navigine/Indoor-Routing-Library/blob/main/Open%20Source_%20Indoor%20Routing%20Library.jpg></p>
 The key features of this library in comparison with similar ones are:
 
 * the ability to set start and destination points outside the graph
