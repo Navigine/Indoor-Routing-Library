@@ -1,6 +1,7 @@
-<p align="center"><img  width="50%"src=https://github.com/Navigine/geometry/blob/main/Geometry%20Library.jpg></p>
 # The Indoor Routing Library contains a set of algorithms for working with the routing graph.
-# The main features are:
+<p align="center"><img  width="50%"src=https://github.com/Navigine/geometry/blob/main/Geometry%20Library.jpg></p>
+
+### The main features are:
 
 * build a graph by specifying the vertices in Cartesian coordinates
 * check if the graph is strongly connected (`Kosaraju's` algorithm)
